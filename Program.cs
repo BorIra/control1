@@ -54,7 +54,7 @@ namespace controlWork
             
             Console.WriteLine("Исходный массив:");
             outputArray(ishArray); 
-            Console.WriteLine("Массив строк длиной до 3х символов включительно:");
+            Console.WriteLine("Массив строк длиной до 3х символов:");
             outputArray(resArray); 
         }
     }
